@@ -1,2 +1,2 @@
-name legato
+name = legato
 print(name)
