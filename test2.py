@@ -1,0 +1,2 @@
+name legato
+print(name)
