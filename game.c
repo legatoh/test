@@ -1,14 +1,4 @@
-#include <stdio.h>
 #include "game.h"
-
-void SetConsoleViwe();
-void PauseConsoleView();
-void ClearConsoleView();
-
-void DrawMainWindow();
-void DrawReadyWindow();
-void DrawGameWindow();
-
 
 int main(){
     int cursor;
